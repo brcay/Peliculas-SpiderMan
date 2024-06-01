@@ -2,7 +2,8 @@
 
 Filmoteca. Filmoteca comprensible con una interfaz sencilla.
 
-<h2>Fue creado con contenido animado usando HTML, CSS y JAVASCRIPT.</h2>
+Fue creado con contenido animado usando HTML, CSS y JAVASCRIPT.
 
-<h3>Ekran Görüntüsü</h3>
+<h2>Ekran Görüntüsü</h2>
+
 ![](peliculas.gif)
